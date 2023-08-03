@@ -1,2 +1,3 @@
 line-bot-sdk
 load_dotenv
+gspread
