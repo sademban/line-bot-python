@@ -1,4 +1,4 @@
-# Simple Server Echo
+# Simple Server Echo Bot
 
 Sample echo-bot using [wsgiref.simple_server](https://docs.python.org/3/library/wsgiref.html)
 
